@@ -10,14 +10,23 @@ ESP32 遊戲搖桿
 模式1(鍵盤方向鍵) 
 
 搖桿 == 鍵盤方向鍵
+
 按鍵1 --->  ESC鍵
+
 按鍵2 --->  ENTER鍵
+
 按鍵3 --->  BACKSPACE鍵
+
 按鍵4 --->  END鍵
+
 按鍵5 --->  PAGE_UP鍵
+
 按鍵6 --->  PAGE_DOWN鍵
+
 按鍵7 --->  ESC鍵
+
 左側按鍵 --->  LEFT_SHIFT鍵
+
 右側按鍵 --->  RIGHT_SHIFT鍵
 
 
@@ -25,7 +34,7 @@ ESP32 遊戲搖桿
 
 模式2(鍵盤WASD鍵) 
 
-搖桿 == WASD鍵
+搖桿 == WASD鍵<br>
 按鍵1 --->  ESC鍵
 按鍵2 --->  ENTER鍵
 按鍵3 --->  BACKSPACE鍵
